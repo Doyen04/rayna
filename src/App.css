@@ -102,7 +102,7 @@
 .headline {
   font-family: 'MessinaSans';
   font-weight: 600;
-  font-size: 30px;
+  font-size: 32px;
   width: 300px;
   margin-top: 15px;
   line-height: 1;
@@ -111,11 +111,11 @@
 
 .sub-headline {
   text-align: center;
-  width: 360px;
+  width: 310px;
   margin-top: 30px;
   font-family: 'Geist';
   font-weight: 100;
-  font-size: 17px;
+  font-size: 13px;
   letter-spacing: -0px;
   line-height: 0.9;
   color: #404040;
