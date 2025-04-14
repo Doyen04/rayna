@@ -14,7 +14,7 @@ const Header: React.FC = () => {
                 <div>FAQs</div>
             </nav>
             <div className='call-to-action'>
-                <button>Log In</button>
+                <button className='login'>Log In</button>
                 <Subscribe />
             </div>
         </header>
