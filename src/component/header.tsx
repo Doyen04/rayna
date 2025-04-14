@@ -1,4 +1,5 @@
 import React from 'react';
+import Subscribe from './subscribe';
 
 const Header: React.FC = () => {
     return (
@@ -14,10 +15,7 @@ const Header: React.FC = () => {
             </nav>
             <div className='call-to-action'>
                 <button>Log In</button>
-                <button className='subscribe'>
-                    <span>Start Free Trial</span>
-                    <img src='./src/assets/arrow.png' />
-                </button>
+                <Subscribe />
             </div>
         </header>
     );
