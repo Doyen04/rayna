@@ -8,23 +8,25 @@
 ![Project Screenshot](./assets/screenshot.png)
 
 ## Project Structure
-rayna/ 
-├── public/ 
-│ └── favicon.ico 
-├── src/ 
-│ ├── assets/ 
-│ │ └── screenshot.png 
-│ ├── components/ 
-│ │ └── [Your Components Here] 
-│ ├── App.css 
-│ ├── App.tsx 
-│ ├── main.tsx 
-│ └── vite-env.d.ts 
-├── .gitignore 
-├── index.html 
-├── package.json 
-├── README.md 
+```plaintext
+rayna/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── assets/
+│   │   └── screenshot.png
+│   ├── components/
+│   │   └── [Your Components Here]
+│   ├── App.css
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
 └── tsconfig.json
+```
 
 ## Libraries Used
 - **React**: A JavaScript library for building user interfaces.
