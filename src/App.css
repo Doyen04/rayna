@@ -70,7 +70,7 @@
   border-radius: 50px;
   align-items: center;
   letter-spacing: -1px;
-  
+
   color: #ffffff;
   border: 2px solid #ffffff;
   background: linear-gradient(-102deg, #FFEF64 0%, #E8562E 85%);
@@ -99,20 +99,22 @@
   letter-spacing: -1px;
   background: radial-gradient(circle, #edece4 0%, #ffddd233 85%);
 }
-.description-line{
+
+.description-line {
   width: 168px;
   height: 2px;
   background: linear-gradient(90deg, #ff510000 0%, #ff510033 50%, #ff510000 100%);
   position: absolute;
   bottom: 0px;
 }
+
 .description>img {
   position: absolute;
   left: -3px;
   top: -3px;
 }
 
-.headline{
+.headline {
   font-family: 'MessinaSans';
   font-weight: 600;
   font-size: 69px;
@@ -123,7 +125,8 @@
   letter-spacing: -4px;
   text-align: center;
 }
-.sub-headline{
+
+.sub-headline {
   margin-top: 30px;
   text-align: center;
   width: 480px;
@@ -134,19 +137,21 @@
   line-height: 0.9;
   color: #404040;
 }
-.bottom-image-container{
+
+.bottom-image-container {
   position: relative;
   display: flex;
   justify-content: center;
-    margin-top: 30px;
-    width: 100%;
-    height: 200px;
-    background: url('./assets/bottom.png');
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
+  margin-top: 30px;
+  width: 100%;
+  height: 200px;
+  background: url('./assets/bottom.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.bottom-image-container > img{
+
+.bottom-image-container>img {
   position: absolute;
   top: -35px;
   height: 65px;
