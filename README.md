@@ -5,7 +5,7 @@
 - **Created By**: Oluwasola Ademola
 
 ## Project Screenshot
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](./src/assets/screenshot.png)
 
 ## Project Structure
 ```plaintext
